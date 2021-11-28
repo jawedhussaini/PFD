@@ -1,0 +1,96 @@
+.a {
+  height: 24vw;
+  background-image: url("../assets/a.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.b {
+  background-image: url("../assets/Path\ 5.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 110%;
+  width: 43%;
+  left: 56%;
+  top: -84%;
+  z-index: 3;
+}
+.c {
+  background-image: url("../assets/Path\ 7.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 25%;
+  width: 10%;
+  top: 58%;
+  z-index: 3;
+  left: 9%;
+}
+.d {
+  background-image: url("../assets/Path\ 6.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 25%;
+  width: 8%;
+  top: 55%;
+  z-index: 3;
+}
+.e {
+  background-image: url("../assets/logo-white\ \(1\)\ 1.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 34%;
+  width: 30%;
+  top: -20%;
+  left: 18%;
+  z-index: 3;
+}
+.f {
+  background-image: url("../assets/Path\ 1.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 85%;
+  width: 85%;
+  right: -18%;
+  z-index: 3;
+}
+.g {
+  background-image: url("../assets/Path\ 2.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  position: relative;
+  top: -90%;
+  height: 35%;
+  width: 55%;
+  left: 35%;
+  z-index: 3;
+}
+.h {
+  height: 24vw;
+}
+.resposive-headers {
+  font-size: 1.8vw;
+}
+
+.header-imgs {
+  width: 100%;
+}
+.header-row {
+  width: 100%;
+}
+.heeader-text {
+  margin-top: 8%;
+}
+.header-font-size {
+  font-size: large;
+}
+@media screen and (max-width: 680px) {
+}
+@media screen and (max-width: 480px) {
+  .resposive-headers {
+    font-size: 1.4vw;
+  }
+}

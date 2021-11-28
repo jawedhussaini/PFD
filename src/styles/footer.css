@@ -1,0 +1,48 @@
+.footer-row {
+  width: 100%;
+}
+
+.footer {
+  height: 6vw;
+  width: 100%;
+}
+.i {
+  background-image: url(../assets/Path\ 8.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 50%;
+  height: 100%;
+}
+.j {
+  background-image: url(../assets/Path\ 9.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 71%;
+  height: 20%;
+  z-index: 3;
+  position: relative;
+  right: -30%;
+  top: -20%;
+}
+.k {
+  background-image: url(../assets/Path\ 10.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 8%;
+  height: 100%;
+  z-index: 3;
+  position: relative;
+  top: -120%;
+  left: 90%;
+}
+.l {
+  width: 40%;
+  position: relative;
+  top: -240%;
+  left: 55%;
+}
+
+.responsive-text {
+  font-size: 1.5vw;
+  margin: 0%;
+}
